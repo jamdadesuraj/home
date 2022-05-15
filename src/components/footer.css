@@ -1,0 +1,28 @@
+.footer{
+    background-color: rgb(71, 62, 62);
+    text-align: left;
+    font:  12px sans-serif;
+    padding: 55px 50px;
+    /* margin-top: 80px; */
+    bottom: 0;
+    color: rgb(226, 207, 207);
+}
+.footer-navigation h3 {
+    margin: 0;
+    font: normal 26px Cookie, cursive;
+    margin-bottom: 20px;
+    color: rgb(131, 106, 106);
+  }.footer-navigation h3 a {
+    text-decoration: none;
+    color: rgb(150, 128, 128);
+  }
+  
+  .footer-navigation h3 span {
+    color: #5383d3;
+  }
+  
+  .footer-navigation p.links a {
+    color: rgb(131, 114, 114);
+    text-decoration: none;
+  }
+  
